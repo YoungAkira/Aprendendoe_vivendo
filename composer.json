@@ -1,0 +1,16 @@
+{ 
+	"require":{
+	
+"slim/slim" : "^4.7","rain/raintpl" : "^3.1"
+},
+ "autoload":{
+ 		"psr-4":{
+ 			"DEV\\" : "system/models/",
+ 		"DEV\\Controllers\\" :"system/controllers/"
+
+ }
+
+ }
+
+
+}
