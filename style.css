@@ -1,0 +1,40 @@
+h1{
+	color: rgba(255, 32, 150, 1.0);
+	font-size: 35px;
+	font-style: italic;
+	text text-transform: uppercase;
+}
+h2{color: purple;
+	font-size: 25px;
+	font-style: !important;
+	text-transform: uppercase;
+
+}
+h3{color: pink;
+
+}
+
+	#segundo_h1{
+		color: green;
+	}
+
+		.classe_h1{
+			color: black !important;
+}
+				p{background: red;
+  					color: white;	
+}
+a{
+				text-decoration: none;
+
+}
+			form{border: 1px solid blue;
+		padding: 13px 25px 10px 5px;	
+			}
+input{display: block;
+	width: 100%;
+margin: 10px 21px;
+}
+
+
+
